@@ -12,16 +12,16 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
 
 # Session Content
 
+# Pre-Requisites: 
 
-# Softwares
-
-1. Heroku (Access <a href="https://heroku.com">Heroku Platform</a>)
-2. App Inventor (Access <a href="http://ai2.appinventor.mit.edu/">App Inventor</a>)
-3. Arduino (Access <a href="https://create.arduino.cc">Arduino IDE</a>)
-4. Google Colab (Access <a href="https://colab.research.google.com">Google Colab</a>)
-5. Git (Download <a href="https://git-scm.com">Git Software</a>)
-6. AWS (Access the Free Tier <a href="https://aws.amazon.com/free">AWS Free Tier</a>)
-7. Thingspeak (Access the Thingspeak IoT Cloud <a href="https://thingspeak.com">Thing Speak</a>)
+1. Anaconda (www.anaconda.com)
+2. git (www.git-scm.com)
+3. VS Code (Visual Studio Code - Code Editing. Redefined)
+4. Google Colab (https://colab.research.google.com)
+5. GitHub (https://github.com)
+6. Heroku (https://heroku.com)
+7. Mobile App Inventor (ai2.appinventor.mit.edu)
+8. Make Skilled (https://makeskilled.com)
 
 
 # Contact
