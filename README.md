@@ -1,6 +1,6 @@
 # About the Programme
 
-Official Repo of my work for ML Dev Hackathon 2022 at GPCET Kurnool from 21st March to 26th March organised by Make Skilled. 
+Official Repo of my work for ML Dev Hackathon 2022 at GPCET Kurnool from 21st March to 26th March organised by Make Skilled in association with Department of CSE-AI, GPCET Kurnool.
 
 # About the Speaker
 
