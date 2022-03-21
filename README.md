@@ -8,6 +8,8 @@ Official Repo of my work for ML Dev Hackathon 2022 at GPCET Kurnool from 21st Ma
 
 Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled. He has 10+ years of experience in building IoT products from prototype stage to production stage. He trained more than 1.8 lakh students and 10K+ faculties across India on various cutting-edge technologies like IoT, Machine Learning, Cloud Computing, Augmented and Virtual Reality, Robotics, Blockchain etc...
 
+# Telegram Group
+https://t.me/+UdUJ7gxOG2RlNGQ9
 
 
 # Session Content
