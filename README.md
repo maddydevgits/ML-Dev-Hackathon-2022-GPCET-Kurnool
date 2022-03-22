@@ -13,6 +13,17 @@ https://t.me/+UdUJ7gxOG2RlNGQ9
 
 
 # Session Content
+<b>Day-1</b>
+
+1. Introduction
+2. Git and Git Commands
+3. Data Collection
+
+<b>Day-2</b>
+1. Data Gathering 
+2. Data Preparation
+3. Data Pre-Processing
+4. Salary Prediction using Simple Linear Regression
 
 # Pre-Requisites: 
 
