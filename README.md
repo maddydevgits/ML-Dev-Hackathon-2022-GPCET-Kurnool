@@ -24,6 +24,14 @@ https://t.me/+UdUJ7gxOG2RlNGQ9
 2. Data Preparation
 3. Data Pre-Processing
 4. Salary Prediction using Simple Linear Regression
+5. Startup Profit Prediction using Multiple Linear Regression
+
+<b>Day-3</b>
+1. Salary Prediction using Polynomial Regression
+2. Product Sale Prediction using Logistic Regression
+3. Crop Prediction using KNN Classification
+4. Diabetes Prediction using Decision Tree Classification
+5. Disease Prediction using Random Forest Classification
 
 # Pre-Requisites: 
 
