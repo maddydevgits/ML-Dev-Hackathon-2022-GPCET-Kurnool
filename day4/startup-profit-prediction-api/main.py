@@ -21,12 +21,29 @@ def homePage():
 
 @app.route('/predict',methods=['POST'])
 def collectData():
-    rd=request.form['rd']
-    a=request.form['a']
-    m=request.form['m']
+    rd=float(request.form['rd'])
+    a=float(request.form['a'])
+    m=float(request.form['m'])
     s=request.form['s']
     print(rd,a,m,s)
-    return(render_template('index.html'))
+    b1=0
+    b2=0
+    b3=0
+    if(s.lower()=='florida'):
+        b1=0
+        b2=1
+        b3=0
+    elif(s.lower()=='new york'):
+        b1=0
+        b2=0
+        b3=1
+    elif(s.lower()=='california'):
+        b1=1
+        b2=0
+        b3=0
+
+    out=regressor.predict([[b1,b2,b3,rd,a,m]])[0]
+    return(render_template('index.html',result=out))
 
 if(__name__=="__main__"):
     app.run()

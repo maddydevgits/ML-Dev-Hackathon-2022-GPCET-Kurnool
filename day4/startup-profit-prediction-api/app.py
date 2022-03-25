@@ -22,7 +22,24 @@ def getData():
     m=request.args.get('m')
     s=request.args.get('s')
     print(rd,a,m,s)
-    return ('Data Collected')
+    b1=0
+    b2=0
+    b3=0
+    if(s.lower()=='florida'):
+        b1=0
+        b2=1
+        b3=0
+    elif(s.lower()=='new york'):
+        b1=0
+        b2=0
+        b3=1
+    elif(s.lower()=='california'):
+        b1=1
+        b2=0
+        b3=0
+
+    out=regressor.predict([[b1,b2,b3,rd,a,m]])[0]
+    return (str(out))
 
 if (__name__=="__main__"):
     app.run()
