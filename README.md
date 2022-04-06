@@ -33,6 +33,16 @@ https://t.me/+UdUJ7gxOG2RlNGQ9
 4. Diabetes Prediction using Decision Tree Classification
 5. Disease Prediction using Random Forest Classification
 
+<b>Day-4</b>
+1. Creating a Web Application using Streamlit
+2. Creating a RestFul API Service using Flask
+3. How to create a Web app using Flask
+
+<b>Day-5</b>
+1. How to deploy ML API on Heroku
+2. How to create a Mobile App
+3. How to use Deep Learning in Teachable Machine
+
 # Pre-Requisites: 
 
 1. Anaconda (www.anaconda.com)
